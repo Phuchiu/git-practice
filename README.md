@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <thai lam hong phuc>, MSSV <220359>.
+Đây là README từ nhánh conflict-demo.
