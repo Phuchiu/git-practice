@@ -1,1 +1,2 @@
 File cho staging, chưa commit
+Thêm dòng mới để test staging
